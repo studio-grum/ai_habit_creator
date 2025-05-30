@@ -36,7 +36,7 @@ selected_mbti = st.selectbox(
 # 목표 분야 입력
 goal_area = st.text_input(
     "목표로 하는 분야를 입력해주세요",
-    placeholder="예: 운동, 루틴 관리, 독서 등"
+    placeholder="예: 자기계발, 건강관리, 생활습관 등"
 )
 
 # 추천 버튼
